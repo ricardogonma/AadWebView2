@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AadWebView</string>
+
+    <string name="getSharedPreferences">getSharedPreferences()</string>
+    <string name="getPreferences">getPreferences()</string>
+    <string name="getDefaultSharedPreferences">getDefaultSharedPreferences()</string>
+    <string name="archivoSharedPreferences">arShPref</string>
+    <string name="datoGuardadoShPref">claveShPref</string>
+    <string name="datoGuardadoPref">clavePref</string>
+    <string name="datoGuardadoShPrefDef">claveShPrefDef</string>
+
+    <string name="leerShPref">Leer shPref</string>
+    <string name="leerPref">Leer Pref</string>
+    <string name="leerShPrefDef">Leer ShPrefDef</string>
+
+    <string name="valorPredefinido">no está</string>
+</resources>
